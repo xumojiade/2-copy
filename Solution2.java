@@ -43,5 +43,6 @@ class Solution2 {
         }
         return sb.toString();
     }
-}
+}//改完之后逻辑通顺，但是没有main函数，我用vscode运行不了
+
 
